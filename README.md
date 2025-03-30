@@ -22,7 +22,7 @@ I'm a backend developer with **2+ years of experience**, specializing in buildin
 ---
 
 ### 📊 GitHub Stats:
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=nikhilkr262&show_icons=true&theme=radical)
 
 ---
 
